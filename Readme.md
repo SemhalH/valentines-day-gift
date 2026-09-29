@@ -14,10 +14,9 @@ The project is designed as a digital Valentine's surprise containing placeholder
 * ✨ **Interactive Elements** — JavaScript-powered interactions and surprises.
 * 💻 **Responsive Design** — Designed to work on different screen sizes.
 
-🌐 Live Demo
+## 🌐 Live Demo
 
-Click here to view the live website 💗 -- 
-digital-valentines.netlify.app
+[💗 View the Valentine's Day Gift](https://digital-valentines.netlify.app)
 
 ## 🛠️ Technologies Used
 
