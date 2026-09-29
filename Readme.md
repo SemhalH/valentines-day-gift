@@ -16,7 +16,8 @@ The project is designed as a digital Valentine's surprise containing placeholder
 
 🌐 Live Demo
 
-Click here to view the live website 💗
+Click here to view the live website 💗 -- 
+digital-valentines.netlify.app
 
 ## 🛠️ Technologies Used
 
